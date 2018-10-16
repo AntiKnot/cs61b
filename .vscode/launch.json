@@ -2,6 +2,16 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TestSort",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "TestSort",
+            "args": ""
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SLList",
             "request": "launch",
             "cwd": "${workspaceFolder}",

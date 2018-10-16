@@ -1,4 +1,5 @@
 public class SLList {
+    /** Note: Please do not mess with first. */
     public IntNode first;
 
     public SLList(int x) {

@@ -49,7 +49,8 @@ public class AList<Item> {
     public Item removeLast() {
         // int returnItem = items[size-1]; //not readable.
         Item x = getLast();
-        items[size] = 0; // it's unnecessary.
+        // items[size] = 0; // it's unnecessary.
+        items[size] = null;
         size = size-1;
         return x;
     }
