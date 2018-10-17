@@ -2,6 +2,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - EnhancedForBreakDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "EnhancedForBreakDemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise4",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Exercise4",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BreakContinue",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "BreakContinue",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise3",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Exercise3",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise2",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Exercise2",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DrawingTriangle",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "DrawingTriangle",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Triangle",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Triangle",
+            "args": ""
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TestSort",
             "request": "launch",
             "cwd": "${workspaceFolder}",
